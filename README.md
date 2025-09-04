@@ -1,7 +1,7 @@
 Hi, I’m James Donoghue 👋
 
 🎓 Business Information Systems Student at Atlantic Technological University (Graduating 2027)
-💻 Interested in software development, information systems, and cloud technologies
+💻 Interested in software development, business, information systems, and cloud technologies
 🌍 Based near Galway, Ireland
 
 🔧 Skills & Tools
